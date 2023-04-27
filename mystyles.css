@@ -1,0 +1,78 @@
+header{
+    background-color: burlywood;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.destinations{
+    bottom: 50px;
+    left: 5px;
+    right: 5px;
+    height: 3000px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    color: rgb(80, 58, 30);
+    background-color: rgb(225, 225, 225);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif
+
+}
+
+.focus{
+    top: 200px;
+    left: 5px;
+    right: 5px;
+    height: 800px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    color: rgb(80, 58, 30);
+    background-color: rgb(225, 225, 225);
+    text-align: center;
+}
+
+.delays{
+    left: 5px;
+    right: 5px;
+    height: 800px;
+    bottom: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(80, 58, 30);
+    background-color: rgb(225, 225, 225);
+    text-align: center;
+}
+
+
+.whitetext{
+    text-decoration: none;
+    color: rgb(80, 58, 30);
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.aboutme{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a:hover{
+    font-weight: bold;
+}
+
+.myul{
+    display: inline-block;
+    text-align: left;
+}
+
+.myol{
+    font-size: bold;
+}
